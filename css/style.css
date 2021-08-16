@@ -805,7 +805,6 @@ a.soc-team-href-footer{
     
     border: none;
 
-
     transition-property: background-color, box-shadow, color;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
