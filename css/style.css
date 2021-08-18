@@ -988,7 +988,11 @@ img{
 
 .portfolio-li:hover .product-thumb::before{
     transform: translateY(0);
+}
 
+.portfolio-li:hover .portfolio-img-text{
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .test:hover .product-thumb::before{
